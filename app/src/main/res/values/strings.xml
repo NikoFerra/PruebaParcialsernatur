@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PruebaParcialsernatur</string>
+    <string-array name="ciudades">
+        <item>.......</item>
+        <item>La Toscana</item>
+        <item>New Zeland</item>
+        <item>Chichen Itza</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
